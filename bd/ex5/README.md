@@ -33,6 +33,7 @@ Realiza el diseño físico de
 
 >Matricula (dni, nombres, apellidos, asignatura). Recuerda que tiene que estar normalizado.
 Normalización (p4.sql) 30p
+
 Realiza el diseño físico de
 
 >Recuerdos(idFoto, idPersona, nombre, dni, títuloFoto, fecha,monumento, ciudad, antigüedadMonumento). Recuerda que tiene que estar normalizado.
