@@ -67,7 +67,7 @@ FROM trips where id = viaje
 $$
 LANGUAGE SQL;
 
------------------------------------------------------------
+----------------------------------------------------------------------
 
 --Creando funciones (en PL/pgSQL)
 
@@ -131,6 +131,7 @@ CREATE TABLE viajes_borrados (
 );
 */
 
+----------------------------------------------------------------------
 --Creando Triggers
 
 --1. act_duracion_t. Al actualizar un viaje, comprobará que al menos la duración es de 20 segundos. Si no lo es, lo actualizará para que sea ese valor
